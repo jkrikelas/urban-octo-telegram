@@ -99,10 +99,6 @@ THEN I find a concise, descriptive title
 
 </html>
 ```
-<<<<<<< HEAD
-=======
-
->>>>>>> 507e5577945f2d9b85a548b019e3b88a5c62023b
 
 # Image of Site
 [Horiseon](urban-octo-telegram/urban-octo-telegram/Develop/assets/images/screencapture-jkrikelas-github-io-urban-octo-telegram-Develop-2020-12-05-19_06_09.png)
