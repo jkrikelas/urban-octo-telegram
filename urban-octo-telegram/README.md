@@ -101,7 +101,7 @@ THEN I find a concise, descriptive title
 ```
 
 # Image of Site
-[Horiseon](./Develop/assets/images/screencapture-jkrikelas-github-io-urban-octo-telegram-Develop-2020-12-05-19_06_09.png)
+![Horiseon](./Develop/assets/images/screencapture-jkrikelas-github-io-urban-octo-telegram-Develop-2020-12-05-19_06_09.png)
 
 # Github and Github Pages
 * [Horiseon](https://jkrikelas.github.io/urban-octo-telegram/urban-octo-telegram/Develop/ "Horiseon")
