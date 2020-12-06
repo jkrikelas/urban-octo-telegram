@@ -1,5 +1,5 @@
 # Project Title
-    ### Accessibility standards for Horiseon
+### Accessibility standards for Horiseon
 
 # Criteria
 * GIVEN a webpage meets accessibility standards
