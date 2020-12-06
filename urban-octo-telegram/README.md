@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-'''
+```html
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -82,7 +82,7 @@
 </body>
 
 </html>
-'''
+```
 
 
 
