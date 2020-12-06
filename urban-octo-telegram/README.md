@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-
+'''
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -82,9 +82,10 @@
 </body>
 
 </html>
+'''
 
 
 
 # Github and Github Pages
-* (https://jkrikelas.github.io/urban-octo-telegram/urban-octo-telegram/Develop/)
-* (https://github.com/jkrikelas/urban-octo-telegram)
+* [Horiseon](https://jkrikelas.github.io/urban-octo-telegram/urban-octo-telegram/Develop/ "Horiseon")
+* [James Krikelas Github](https://github.com/jkrikelas/urban-octo-telegram)
